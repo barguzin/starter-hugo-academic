@@ -42,4 +42,4 @@ categories:
 
 I will post regularly
 
-{{< figure src="https://www.sciencenews.org/wp-content/uploads/2020/12/120820_jb_seal_feat-1030x580.jpg" title="Nerpa." >}}
+<!-- {{< figure src="https://www.sciencenews.org/wp-content/uploads/2020/12/120820_jb_seal_feat-1030x580.jpg" title="Nerpa." >}} -->
