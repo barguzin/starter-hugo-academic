@@ -50,9 +50,9 @@ experience:
     date_end: '2020-08-01'
     description: >- 
     
-    * Developed and deployed gradient boosted decision tree model with 78 indicators to evaluate the risk of fires throughout the city and prioritize fire inspections.
-    * Designed and set up an analytical dashboard to monitor and forecast flu outbreaks in Moscow schools, facilitating more expeditious decision-making practices and responsive quarantine protocols
-    * Engineered 50+ spatially explicit predictors to be used in large-scale geographically weighted regression to model the flow of movement between different neighborhoods of the city, promoting fine-tuned fiscal practices in planning for new infrastructure.
+      * Developed and deployed gradient boosted decision tree model with 78 indicators to evaluate the risk of fires throughout the city and prioritize fire inspections.
+      * Designed and set up an analytical dashboard to monitor and forecast flu outbreaks in Moscow schools, facilitating more expeditious decision-making practices and responsive quarantine protocols
+      * Engineered 50+ spatially explicit predictors to be used in large-scale geographically weighted regression to model the flow of movement between different neighborhoods of the city, promoting fine-tuned fiscal practices in planning for new infrastructure.
 
 design:
   columns: '2'
