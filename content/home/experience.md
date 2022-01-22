@@ -39,16 +39,20 @@ experience:
     date_end: '2018-08-01'
     description: >-
         
-        * Promoted cross-team collaborations between multiple big data products and projects to ensure timely and swift delivery of electronic services to residents of Moscow. Initiated and coordinated 20 pilot projects centered on predictive analytics and machine learning, which were successfully deployed in production and increased the funding to Big Data Division tenfold, enabling further expansion of digital services across multiple departments of city government.
+        Promoted cross-team collaborations between multiple big data products and projects to ensure timely and swift delivery of electronic services to residents of Moscow. Initiated and coordinated 20 pilot projects centered on predictive analytics and machine learning, which were successfully deployed in production and increased the funding to Big Data Division tenfold, enabling further expansion of digital services across multiple departments of city government.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Analyst
+    company: IT Department of Moscow Government
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: dit
+    location: Moscow, Russia
+    date_start: '2015-12-15'
+    date_end: '2020-08-01'
+    description: >- 
+    
+    * Developed and deployed gradient boosted decision tree model with 78 indicators to evaluate the risk of fires throughout the city and prioritize fire inspections.
+    * Designed and set up an analytical dashboard to monitor and forecast flu outbreaks in Moscow schools, facilitating more expeditious decision-making practices and responsive quarantine protocols
+    * Engineered 50+ spatially explicit predictors to be used in large-scale geographically weighted regression to model the flow of movement between different neighborhoods of the city, promoting fine-tuned fiscal practices in planning for new infrastructure.
 
 design:
   columns: '2'
