@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Student Researcher 
+    company: UC Santa Barbara
+    company_logo: ucsb
+    location: Santa Barbara, CA
+    date_start: '2019-09-15'
+    date_end: ''
+    description: Designed a multisource analytical framework for exploration of spatiotemporal structure of mobility during the COVID-19 pandemic.
+
   - title: Team Lead
     company: IT Department of Moscow Government
     company_url: ''
@@ -29,11 +37,10 @@ experience:
     location: Moscow, Russia
     date_start: '2017-08-01'
     date_end: '2018-08-01'
-    description: |2-
-        Responsibilities include:
+    description: >-
         
         * Promoted cross-team collaborations between multiple big data products and projects to ensure timely and swift delivery of electronic services to residents of Moscow. Initiated and coordinated 20 pilot projects centered on predictive analytics and machine learning, which were successfully deployed in production and increased the funding to Big Data Division tenfold, enabling further expansion of digital services across multiple departments of city government.
-        
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
