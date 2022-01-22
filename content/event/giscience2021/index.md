@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "GISceince 2021"
+title: "GIScience 2021"
 event: 
 event_url: https://www.giscience.org/
 location: Virtual
